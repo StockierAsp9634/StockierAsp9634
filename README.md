@@ -12,7 +12,7 @@ The only problem is, **it's hard.**
 
 Join me on my journey through the world of quantitative analysis: 
 
-[My Blog](https://arnavmahendra.medium.com/)
+[My Blog](https://arnavm.medium.com/)
 
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/alt-maker-b39193252/)
