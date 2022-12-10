@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Arnav. 
 
-I am a current high school student and aspiring **quantitative analyst** from 📍 Sacramento, California. 
+I am a current high school student and aspiring **__quantitative analyst__** from 📍 Sacramento, California. 
 <!--
 
 Here are some ideas to get you started:
