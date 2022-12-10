@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Arnav. 
 
+I am a current high school student and aspiring **quantitative analyst** from 📍 Sacramento, California. 
 <!--
-**StockierAsp9634/StockierAsp9634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
