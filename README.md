@@ -5,7 +5,7 @@ I am a current high school student who is interested in data science and finance
 
 ### 🚀 Teens for Vaccines, Cognition Robotics, Alumnus Capital
 
-### 🗣️ Hindi, Spanish, English
+### 🗣️ Hindi, Spanish, English, Portuguese(em progresso)
 
 ### 💼 High School Public Forum Debate
 
