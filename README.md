@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Arnav(he/him/his).
+# Hi there , I'm Arnav.
 
-I am a current high school student who is interested in data science and finance from 📍 Sacramento(Go Kings 👑!!!), California. I write a monthly blog on these topics(and more). 
+I am a current high school student who is interested in data science and finance from Sacramento, California. I write a monthly blog on these topics(and more). 
 
 
-### 🚀 Teens for Vaccines, Cognition Robotics, Alumnus Capital
+### 🚀Cognition Robotics, Alumnus Capital
 
 ### 🗣️ Hindi, Spanish, English, Portuguese(em progresso)
 
